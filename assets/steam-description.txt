@@ -1,0 +1,29 @@
+[h1]Overview[/h1]
+
+Are you a mod developer who is wishing for a quieter `error.log` while you debug with the Enigmatic Shipset active?  Then this mod is for you (and me)!  This mod does **NOT** redistribute any of the graphics from the Enigmatic Shipset, but does redefine and replace entity asset files in order to eliminate many error messages.
+
+[h1]Changes[/h1]
+
+Many entity definitions were tweaked to remove animations.  "Removed" code was commented out rather than deleted.  MadamLava, please feel free to harvest any of these adjustment for use in your mod directly.
+
+If anyone wants to read the explicit list I made of the changes, then please visit this mod's GitHub page or view the README.md in its root directory.  With no other mods installed, Enigmatic Shipset generates over 100 lines of error logs on game start.  This mod eliminates all of them by fixing the errors in code.  Should you find that there are still error logs related to the Enigmatic Shipset while playing Stellaris, [i]please[/i] let me know and I will fix them.
+
+[h2]Compatibility[/h2]
+
+Built for Stellaris version 3.1.* "Lem."  Not compatible with achievements.
+
+[h3]Required Dependency Mods[/h3]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2545512457]Enigmatic Shipset[/url] for the original graphics and other ship-related code.
+
+[h3]Recommended Companion Mods[/h3]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084]Aesthetic Terraform Stations[/url] will give you back the very old-school terraform stations as visual markers for terraforming planets.
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2631808667]Enigmatic Shipset Add-on: Aesthetic Terraform Station Compatibility[/url] this compatibility patch ensures the correct Enigmatic Shipset graphics are used for the above terraform stations.
+
+[h2]Changelog[/h2]
+
+See [url=]Change Notes[/url]
+
+[url=https://discord.gg/bHVez2C][img]https://i.imgur.com/4Und3QN.png[/img][/url]

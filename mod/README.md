@@ -1,12 +1,10 @@
 # Overview
 
-Are you a mod developer who is tired of the noisy error logs from the Machine Shipset?  Then this mod is for you (and me)!  This mod does **NOT** redistribute any of the graphics from the Machine Shipset, but does redefine and replace entity asset files in order to eliminate many error messages and some syntax errors.
-
-Along the way, I also added missing particles based on the source definitions (generally from the mammalian or molluscoid ships).  Also missing from several files were the variables defining engine trail length.  Between these two refinements, the Machine Shipset looks nicer than ever.
+Are you a mod developer who is wishing for a quieter `error.log` while you debug with the Enigmatic Shipset active?  Then this mod is for you (and me)!  This mod does **NOT** redistribute any of the graphics from the Enigmatic Shipset, but does redefine and replace entity asset files in order to eliminate many error messages.
 
 # Changes
 
-Many entity definitions were tweaked to remove (or sometimes add) animations.  "Removed" code was commented out rather than deleted so it should be straightforward to re-enable sections responsible for things for compatibility with NSC, RS, DSS, or ACG.  AryxErin, if you are reading this - feel free to harvest fixes for use in your mod directly.
+Many entity definitions were tweaked to remove animations.  "Removed" code was commented out rather than deleted.  MadamLava, please feel free to harvest any of these adjustment for use in your mod directly.
 
 * `common\graphical_culture\aoshtai_01_graphical_culture.txt` mark graphical culture as not having cities
 * `gfx\models\ships\aoshtai_01_ships_entities.asset`
