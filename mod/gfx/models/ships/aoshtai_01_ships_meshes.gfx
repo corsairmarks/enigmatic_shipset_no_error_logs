@@ -1,0 +1,499 @@
+objectTypes = {
+	#### megas ####
+	pdxmesh = {
+		name = "aoshtai_01_gateway_mesh"
+		file = "gfx/models/ships/megastructures/gateway/aoshtai_01_gateway.mesh"
+
+		#animation = { id = "idle"		type = "gateway_idle_animation" }
+	}
+
+	#### Leviathan ####
+	pdxmesh = {
+		name = "enigmatic_leviathan_mesh"
+		file = "gfx/models/ships/Leviathan_Assets/enigmatic_leviathan.mesh"
+		scale = 4.0
+	}
+
+#######  Corvette Sections  #######
+
+	pdxmesh = {
+		name = "aoshtai_01_corvette_mesh"
+		file = "gfx/models/ships/Corvette_Assets/aoshtai_01_corvette.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_corvette_M1S1_mesh"
+		file = "gfx/models/ships/Corvette_Assets/aoshtai_01_corvette_M1S1.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_corvette_S3_mesh"
+		file = "gfx/models/ships/Corvette_Assets/aoshtai_01_corvette_S3.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_corvette_S1_mesh"
+		file = "gfx/models/ships/Corvette_Assets/aoshtai_01_corvette_S1.mesh"
+		scale = 1.0
+	}
+
+#######  Destroyer Bow Sections  #######
+
+	pdxmesh = {
+		name = "aoshtai_01_destroyer_mesh"
+		file = "gfx/models/ships/Destroyer_Assets/aoshtai_01_destroyer.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_destroyer_bow_L1_mesh"
+		file = "gfx/models/ships/Destroyer_Assets/aoshtai_01_destroyer_bow_L1.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_destroyer_bow_M1S2_mesh"
+		file = "gfx/models/ships/Destroyer_Assets/aoshtai_01_destroyer_bow_M1S2.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_destroyer_bow_S3_mesh"
+		file = "gfx/models/ships/Destroyer_Assets/aoshtai_01_destroyer_bow_S3.mesh"
+		scale = 1.0
+	}
+
+####### Destroyer Stern Sections  #######
+
+	pdxmesh = {
+		name = "aoshtai_01_destroyer_stern_S2_mesh"
+		file = "gfx/models/ships/Destroyer_Assets/aoshtai_01_destroyer_stern_S2.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_destroyer_stern_M1_mesh"
+		file = "gfx/models/ships/Destroyer_Assets/aoshtai_01_destroyer_stern_M1.mesh"
+		scale = 1.0
+	}
+
+####### Cruiser Core #######
+
+	pdxmesh = {
+		name = "aoshtai_01_cruiser"
+		file = "gfx/models/ships/Cruiser_Assets/aoshtai_01_cruiser.mesh"
+		scale = 1.0
+	}
+
+####### Cruiser Bow Sections  #######
+
+	pdxmesh = {
+		name = "aoshtai_01_cruiser_bow_L1_mesh"
+		file = "gfx/models/ships/Cruiser_Assets/aoshtai_01_cruiser_bow_L1.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_cruiser_bow_M1S2_mesh"
+		file = "gfx/models/ships/Cruiser_Assets/aoshtai_01_cruiser_bow_M1S2.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_cruiser_bow_M2_mesh"
+		file = "gfx/models/ships/Cruiser_Assets/aoshtai_01_cruiser_bow_M2.mesh"
+		scale = 1.0
+	}
+
+####### Cruiser Mid Sections  #######
+
+	pdxmesh = {
+		name = "aoshtai_01_cruiser_mid_S2HB_mesh"
+		file = "gfx/models/ships/Cruiser_Assets/aoshtai_01_cruiser_mid_S2HB.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_cruiser_mid_L1M1_mesh"
+		file = "gfx/models/ships/Cruiser_Assets/aoshtai_01_cruiser_mid_L1M1.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_cruiser_mid_M3_mesh"
+		file = "gfx/models/ships/Cruiser_Assets/aoshtai_01_cruiser_mid_M3.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_cruiser_mid_M2S2_mesh"
+		file = "gfx/models/ships/Cruiser_Assets/aoshtai_01_cruiser_mid_M2S2.mesh"
+		scale = 1.0
+	}
+
+####### Cruiser Stern Sections  #######
+
+	pdxmesh = {
+		name = "aoshtai_01_cruiser_stern_M1_mesh"
+		file = "gfx/models/ships/Cruiser_Assets/aoshtai_01_cruiser_stern_M1.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_cruiser_stern_S2_mesh"
+		file = "gfx/models/ships/Cruiser_Assets/aoshtai_01_cruiser_stern_S2.mesh"
+		scale = 1.0
+	}
+
+####### Battleship Core #######
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship.mesh"
+		scale = 1.0
+	}
+
+#######  Battleship Bow Sections  #######
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_bow_L1M1S2_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_bow_L1M1S2.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_bow_L1S4_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_bow_L1S4.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_bow_L2_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_bow_L2.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_bow_M1S2SHB_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_bow_M1S2SBH.mesh"
+		scale = 1.0
+	}
+
+		pdxmesh = {
+		name = "aoshtai_01_battleship_bow_M2S4_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_bow_M2S4.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_bow_M3S2_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_bow_M3S2.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_bow_XL1_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_bow_XL1.mesh"
+		scale = 1.0
+	}
+
+#######  Battleship Mid Sections  #######
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_mid_L1M4_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_mid_L1M4.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_mid_L2M2_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_mid_L2M2.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_mid_L2S4_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_mid_L2S4.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_mid_L3_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_mid_L3.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_mid_M4SHB_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_mid_M4SHB.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_mid_S4LHB_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_mid_S4LHB.mesh"
+		scale = 1.0
+	}
+
+#######  Battleship Stern Sections  #######
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_stern_L1_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_stern_L1.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_stern_M1S2_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_stern_M1S2.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_stern_M2_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_stern_M2.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_battleship_stern_S4_mesh"
+		file = "gfx/models/ships/Battleship_Assets/aoshtai_01_battleship_stern_S4.mesh"
+		scale = 1.0
+	}
+
+###### TITAN ######
+
+	pdxmesh = {
+		name = "aoshtai_01_titan_mesh"
+		file = "gfx/models/ships/Titan_Assets/aoshtai_01_titan.mesh"
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_titan_bow_mesh"
+		file = "gfx/models/ships/Titan_Assets/aoshtai_01_titan_bow.mesh"
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_titan_mid_mesh"
+		file = "gfx/models/ships/Titan_Assets/aoshtai_01_titan_mid.mesh"
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_titan_stern_mesh"
+		file = "gfx/models/ships/Titan_Assets/aoshtai_01_titan_stern.mesh"
+	}
+
+###### Juggernaut ######
+
+	pdxmesh = {
+		name = "aoshtai_01_juggernaut_mesh"
+		file = "gfx/models/ships/Juggernaut_Assets/aoshtai_01_juggernaut.mesh"
+	}
+
+
+####### Small Ships  #######
+
+	pdxmesh = {
+		name = "aoshtai_01_bomber_mesh"
+		file = "gfx/models/ships/StrikeCraft_Assets/aoshtai_01_bomber.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_launcher_mesh"
+		file = "gfx/models/ships/StrikeCraft_Assets/aoshtai_01_launcher.mesh"
+		scale = 1.0
+	}
+
+		pdxmesh = {
+		name = "aoshtai_01_fighter_mesh"
+		file = "gfx/models/ships/StrikeCraft_Assets/aoshtai_01_fighter.mesh"
+		scale = 1.0
+	}
+
+####### Civilian Ships  #######
+
+	pdxmesh = {
+		name = "aoshtai_01_science_mesh"
+		file = "gfx/models/ships/Civilian_Assets/science_ship/aoshtai_01_science.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_construction_mesh"
+		file = "gfx/models/ships/Civilian_Assets/construction_ship/aoshtai_01_construction.mesh"
+		scale = 1.0
+
+		# animation = { id = "idle"						type = "aoshtai_01_construction_idle_animation" }
+		# animation = { id = "working"					type = "aoshtai_01_construction_working_animation" }
+		# animation = { id = "working_looping"			type = "aoshtai_01_construction_working_looping_animation" }
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_transport_mesh"
+		file = "gfx/models/ships/Civilian_Assets/transport_ship/aoshtai_01_transport.mesh"
+		scale = 1.0
+	}
+
+	# pdxmesh = {
+	# 	name = "aoshtai_01_colony_mesh"
+	# 	file = "gfx/models/ships/Civilian_Assets/colony_ship/aoshtai_01_colony.mesh"
+	# 	scale = 1.0
+	# }
+
+####### Stations #######
+
+	pdxmesh = {
+		name = "aoshtai_01_habitat_mesh"
+		file = "gfx/models/ships/Civilian_Assets/habitat/aoshtai_01_habitat.mesh"
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_habitat_frame_mesh"
+		file = "gfx/models/ships/Civilian_Assets/habitat/aoshtai_01_habitat_frame.mesh"
+		animation = { id = "rotate"			type = "aoshtai_01_habitat_frame_idle" }
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_mining_station_mesh"
+		file = "gfx/models/ships/Civilian_Assets/mining_station/aoshtai_01_mining_station.mesh"
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_research_station_mesh"
+		file = "gfx/models/ships/Civilian_Assets/research_station/aoshtai_01_research_station.mesh"
+	}
+
+####### Starbases #######
+
+	### Frame
+	pdxmesh = {
+		name = "aoshtai_01_outpost_frame_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_starport_frame.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_starport_frame_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_starport_frame.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_starhold_frame_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_starport_frame.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_starfort_frame_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_starport_frame.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_citadel_frame_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_starport_frame.mesh"
+		scale = 1.0
+	}
+
+	#### Mesh ####
+	pdxmesh = {
+		name = "aoshtai_01_outpost_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_outpost.mesh"
+
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_starport_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_starport.mesh"
+		scale = 1.0
+
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_starhold_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_starhold.mesh"
+		scale = 1.0
+
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_starfort_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_starfort.mesh"
+		scale = 1.0
+
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_citadel_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_citadel.mesh"
+		scale = 1.0
+
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_starbase_turret_section_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_starbase_turret_section.mesh"
+
+	}
+
+	#### Modules ####
+	pdxmesh = {
+		name = "aoshtai_01_orbital_station_assemblyyard_section_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_orbital_station_assemblyyard_section.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_orbital_station_hangarbay_section_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_orbital_station_hangarbay_section.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_orbital_station_refinery_section_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_orbital_station_refinery_section.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_orbital_station_science_section_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_orbital_station_science_section.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_orbital_station_habitat_section_mesh"
+		file = "gfx/models/ships/Civilian_Assets/starbase/aoshtai_01_orbital_station_habitat_section.mesh"
+		scale = 1.0
+	}
+
+	#### Military Station ####
+	pdxmesh = {
+		name = "aoshtai_01_military_station_small_mesh"
+		file = "gfx/models/ships/Military_Station_Assets/aoshtai_01_military_station_small.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_military_station_section_heavy_mesh"
+		file = "gfx/models/ships/Military_Station_Assets/aoshtai_01_military_station_section_heavy.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_military_station_section_medium_mesh"
+		file = "gfx/models/ships/Military_Station_Assets/aoshtai_01_military_station_section_medium.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "aoshtai_01_military_station_section_light_mesh"
+		file = "gfx/models/ships/Military_Station_Assets/aoshtai_01_military_station_section_light.mesh"
+		scale = 1.0
+	}
+}
