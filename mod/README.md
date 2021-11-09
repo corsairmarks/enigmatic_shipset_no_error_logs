@@ -4,7 +4,7 @@ Are you a mod developer who is wishing for a quieter `error.log` while you debug
 
 # Changes
 
-Many entity definitions were tweaked to remove animations.  "Removed" code was commented out rather than deleted.  MadamLava, please feel free to harvest any of these adjustment for use in your mod directly.
+Many entity definitions were tweaked to remove animations.  "Removed" code was commented out rather than deleted.  MadamLava, please feel free to harvest any of these adjustments for use in your mod directly.
 
 * `common\graphical_culture\aoshtai_01_graphical_culture.txt` mark graphical culture as not having cities
 * `gfx\models\ships\aoshtai_01_ships_entities.asset`
